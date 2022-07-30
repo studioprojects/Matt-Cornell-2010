@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<jukebox>
+  <track source="tracks/My Friend.mp3" artist="Matt Cornell" album="Out Of Suburbia" title="My Friend" />
+  <track source="tracks/Over My Head.mp3" artist="Matt Cornell" album="Out Of Suburbia" title="Over My Head" />
+  <track source="tracks/Need Your Love.mp3" artist="Matt Cornell" album="Out Of Suburbia" title="Need Your Love" />
+  <track source="tracks/One Day Rene.mp3" artist="Matt Cornell" album="Out Of Suburbia" title="One Day Rene" />
+  <track source="tracks/Alive.mp3" artist="Matt Cornell" album="Out Of Suburbia" title="Alive" />
+  <track source="tracks/You Make Me Smile.mp3" artist="Matt Cornell" album="Out Of Suburbia" title="You Make Me Smile" />
+  <track source="tracks/Don't Wanna Close My Eyes.mp3" artist="Matt Cornell" album="Out Of Suburbia" title="Don't Wanna Close My Eyes" />
+  <track source="tracks/Glisten.mp3" artist="Matt Cornell" album="Out Of Suburbia" title="Glisten" />
+  <track source="tracks/Wanna Be There.mp3" artist="Matt Cornell" album="Out Of Suburbia" title="Wanna Be There" />
+  <track source="tracks/Weather Girl.mp3" artist="Matt Cornell" album="Out Of Suburbia" title="Weather Girl" /> 
+</jukebox>
